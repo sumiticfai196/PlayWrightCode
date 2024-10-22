@@ -1,0 +1,22 @@
+{
+  "name": "PlayWrightCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day1.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumiticfai196/PlayWrightCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumiticfai196/PlayWrightCode/issues"
+  },
+  "homepage": "https://github.com/sumiticfai196/PlayWrightCode#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.7"
+  }
+}
